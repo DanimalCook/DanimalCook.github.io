@@ -1,1 +1,13 @@
-give me a sec
+# This is my Homework 1.1 Assignment
+
+### 1.	
+	HTML: Acronym that stands for "HyperText Markup Language". HTML formats elements from a coding language to make them more visible in the rest of the script. As well as notifying users of simple typing errors.
+	URL: Acronym for "Uniform Resource Locator". A URL is a type of a Uniform Resource Identifier used for the web. A URL identifies a specific resource through the use of a name or unique string of characters.
+	'internetwork': A digital network formed through the connection of computer networks and gateways. A large-scale example would be the World Wide Web also known as the "Internet". And a smaller example would be a Local Area Network (LAN).
+### 2.
+	The earliest snapshot of Google.com I found was from November 11 1998. The original site was only three lines of visible text, without any graphical assets or images. Below the header there were two links. One to the search engine prototype. And the second to the WIP search engine, which had more bugs but was more up to date. Both links go to pages that look surprisingly similar to Google's homepage today. They use the same colorful logo. It looks like they dropped the exclamation mark at some point in time.
+### 3.
+	A website I really like is the one for the webcomic "xkcd". The site is clean, simple, and easy to navigate. There aren't animated graphics or large resolution images, so the site is easy to load on the slow connection or weak computer. The comic is right in the middle of the page, and even offers the image URL for easy embedding. Plus the site is vertically organized which translates well onto mobile devices.
+	I found old snapshot of the xkcd website from April 22 2006. The snapshot shows the artist's progress more than anything. The rest of the site has fewer links and is less consolidated than the current site. But overall the site is very similar.
+### 4.
+	The most interesting part I found in the source code was that the webpage's composition seems to be based on 3 "id" containers. Each container is classified as a box and divided by the "topcontainer", "middlecontainer", and "bottom". Each dividing box contains the information for their respective sections of the site. It seems like a smart way to simplify and consolidate the source code for later editing. 
