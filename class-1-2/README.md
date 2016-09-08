@@ -10,6 +10,6 @@ This week's assignment went pretty well. I had fun sorting through a ton of shor
  The double-space entity is **&ensp**
  And the quadruple-space entity is **&emsp**
 
-#### The larger spaces made the poem structuring a lot faster and easier.
-#### I am looking forward to starting CSS.
+The larger spaces made the poem structuring a lot faster and easier.
+I am looking forward to starting CSS.
 
