@@ -1,0 +1,67 @@
+body {
+    font-family: "Book Antiqua3", "Times New Roman", sans-serif;
+    color: rgba(40,40,0,0.9);
+    opacity: 0.9;
+    padding: 20px;
+    }
+
+.header {
+    color: rgb(100,0,0);
+    background-color: hsla(40, 30%, 90%, 0.8);
+    padding: inherit;
+    text-align: center;
+        }
+
+
+h1 {
+    font-family: "Archistico_Simple", serif;
+    font-size: 300%;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-shadow: 4px 4px rgba(82, 84, 122, 0.5);
+    }
+
+h2 {
+    font-family: "Cairo", monospace;
+    color: #000;
+    font-size: 20px;
+    word-spacing: .01em;
+    }
+
+h3 {
+    font-family: "papyrus";
+    font-size: 40px;
+    color: #7a1f1f;
+    }
+
+p {
+    font-family: "Cairo";
+    line-height: 1.5em
+    text-align: justify;
+    text-indent: 10px;
+    }
+    
+.endlink {
+    font-style: italic;    
+    }
+
+a:link {
+    color: #900;
+    text-decoration: overline;
+        }
+
+a:hover {
+    color: #900;
+    text-decoration: underline;
+        }
+
+a:active {
+    color: #f33;
+    text-decoration: line-through;
+        }
+
+a:visited {
+    color: #8f3d3d;
+        }
+
