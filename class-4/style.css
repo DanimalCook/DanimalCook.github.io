@@ -28,7 +28,7 @@ h1 {
 
 h2 {
     font-family: "Cairo", monospace;
-    color: #000;
+    color: #ffffff;
     font-size: 20px;
     word-spacing: .01em;
     }
@@ -42,7 +42,6 @@ h3 {
 p {
     font-family: "Cairo";
     line-height: 1.5em
-    text-align: justify;
     text-indent: 10px;
     }
     
