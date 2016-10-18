@@ -1,5 +1,8 @@
 body {
-     background-color: maroon;
+    background-color: lightblue;
+}
+
+body {
     font-family: "Book Antiqua3", "Times New Roman", sans-serif;
     color: rgba(40,40,0,0.9);
     opacity: 0.9;
