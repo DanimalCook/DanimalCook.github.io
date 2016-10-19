@@ -4,6 +4,8 @@ body {
 
 h1 {
     border-style: solid;
+    background-color:  #d6e0f5;
+    margin: 100px 150px 100px 80px;
     color: white;
     text-align: center;
     text-shadow:
