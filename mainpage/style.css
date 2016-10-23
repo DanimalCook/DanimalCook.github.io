@@ -1,9 +1,10 @@
 h1 {
     text-align: center;
-    color: #ffffff;
+    color: #000000;
+    font-family: "Verdana", "Geneva", sans-serif;
     /*background-color: #006699;*/
     border: 5px solid #79d2a6;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 
