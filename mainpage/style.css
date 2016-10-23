@@ -1,7 +1,9 @@
 h1 {
     text-align: center;
     color: #ffffff;
-    background-color: #006699;
+    /*background-color: #006699;*/
+    border: 5px solid #79d2a6;
+    border-radius: 5px;
 }
 
 
