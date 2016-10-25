@@ -37,16 +37,20 @@ p {
 
 a:link {
     color: #277553;
+    text-decoration: none;
 }
 
 a:hover {
     color: #40bf88;
+    text-decoration: none;
 }
 
 a:active {
     color: #55ff00;
+    text-decoration: none;
 }
 
 a:visited {
     color:#277553
+    text-decoration: none;
 }
