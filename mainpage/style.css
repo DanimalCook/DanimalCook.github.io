@@ -1,18 +1,26 @@
 h1 {
     text-align: center;
-    color: #000000;
+    color: #ffffff;
     font-family: "Verdana", "Geneva", sans-serif;
-    /*background-color: #006699;*/
-    border: 5px solid #79d2a6;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+    
+    background-color: #003B22;
+    border: 5px solid #ffffff;
     border-radius: 10px;
 }
 
 
 h2 {
     text-align: center;
+    color: #277553;
 }
 
 
 p {
    text-align: center;
+    color: #74AE95;
 }
