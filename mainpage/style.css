@@ -1,13 +1,20 @@
+body {
+    color: #ffffff;
+}
+
+
 h1 {
     text-align: center;
     color: #ffffff;
-    font-family: "Verdana", "Geneva", sans-serif;
+    font-family: "helvetica", "Geneva", monospace;
+    font-weight: bold;
     text-shadow:
    -1px -1px 0 #000,  
     1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;
-    
+    margin: 40px 80px;
+    padding: 20px 0px;
     background-color: #003B22;
     border: 5px solid #ffffff;
     border-radius: 10px;
@@ -15,12 +22,14 @@ h1 {
 
 
 h2 {
+    font-family: "helvetica", "Geneva", sans-serif;
     text-align: center;
     color: #277553;
 }
 
 
 p {
+   font-family: "helvetica", "Geneva", sans-serif;
    text-align: center;
-    color: #74AE95;
+   color: #74AE95;
 }
