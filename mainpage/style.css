@@ -35,7 +35,7 @@ p {
 }
 
 
-a:link {
+a:link, a:visited {
     color: #277553;
     text-decoration: none;
 }
@@ -47,10 +47,5 @@ a:hover {
 
 a:active {
     color: #55ff00;
-    text-decoration: none;
-}
-
-a:visited {
-    color:#277553
     text-decoration: none;
 }
