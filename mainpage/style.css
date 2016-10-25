@@ -37,12 +37,16 @@ p {
 
 a:link {
     color: #277553;
-        }
+}
 
 a:hover {
     color: #40bf88;
-        }
+}
 
 a:active {
     color: #55ff00;
-        }
+}
+
+a:visited {
+    color:#277553
+}
