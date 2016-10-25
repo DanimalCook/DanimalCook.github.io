@@ -16,7 +16,7 @@ h1 {
     margin: 40px 20px;
     padding: 20px 5px;
     background-color: #004d2d;
-    border-style: 20px none solid #74AE95;
+    border-style: 20px hidden solid #74AE95;
     /*border: 5px solid #ffffff;*/
 }
 
