@@ -16,15 +16,10 @@ h1 {
     margin: 40px 0px;
     padding: 20px 5px;
     background-color: #004d2d;
+    border-style: 20px none solid #74AE95;
     /*border: 5px solid #ffffff;*/
 }
-header {
-    background-color: #277553;
-    margin: 40px 50px;
-}
-.head1 {
-    background-color: #74AE95;
-    margin: 40px 100px;
+
 }
 
 h2 {
