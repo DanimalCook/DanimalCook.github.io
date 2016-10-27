@@ -20,18 +20,22 @@ h1 {
     /*border: 5px solid #ffffff;*/
 }
 
-}
-
 h2 {
     font-family: "helvetica", "Geneva", sans-serif;
     text-align: center;
     color: #277553;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 p {
    font-family: "helvetica", "Geneva", sans-serif;
    text-align: center;
    color: #74AE95;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 a:link, a:visited {
@@ -43,6 +47,6 @@ a:hover {
     text-decoration: none;
 }
 a:active {
-    color: #55ff00;
+    color: #64e64d;
     text-decoration: none;
 }
