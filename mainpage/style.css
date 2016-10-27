@@ -2,8 +2,8 @@ body {
     background-color: #ffffff;
 }
 
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
+.col-1 {width: 100%;}
+.col-2 {width: 75%;}
 .col-3 {width: 25%;}
 .col-4 {width: 33.33%;}
 .col-5 {width: 41.66%;}
@@ -37,7 +37,7 @@ h2 {
     text-align: center;
     color: #277553;
     margin: auto;
-    width: 80%;
+    /*width: 80%;*/
     padding: 10px;
 }
 
@@ -47,7 +47,7 @@ p {
    text-align: center;
    color: #74AE95;
     margin: auto;
-    width: 80%;
+    /*width: 80%;*/
     padding: 10px;
 }
 
