@@ -4,6 +4,7 @@ body {
 
 
 h1 {
+     box-sizing: border-box;
     text-align: center;
     color: #ffffff;
     font-family: "helvetica", "Geneva", monospace;
@@ -19,6 +20,7 @@ h1 {
 }
 
 h2 {
+     box-sizing: border-box;
     font-family: "helvetica", "Geneva", sans-serif;
     text-align: center;
     color: #277553;
@@ -28,6 +30,7 @@ h2 {
 }
 
 p {
+    box-sizing: border-box;
    font-family: "helvetica", "Geneva", sans-serif;
    text-align: center;
    color: #74AE95;
