@@ -8,12 +8,11 @@ h1 {
     color: #ffffff;
     font-family: "helvetica", "Geneva", monospace;
     font-weight: bold;
-    text-shadow:
+    /*text-shadow:
    -1px -1px 0 #000,  
     1px -1px 0 #000,
     -1px 1px 0 #000,
-     1px 1px 0 #000;
-    margin: 40px 20px;
+     1px 1px 0 #000;*/
     padding: 20px 5px;
     background-color: #004d2d;
     border-style: 20px hidden solid #74AE95;
