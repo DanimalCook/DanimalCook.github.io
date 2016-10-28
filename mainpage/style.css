@@ -45,14 +45,16 @@ p {
     padding: 10px;
 }
 
-.pglinks { opacity: 0.7;
+img { opacity: 0.7;
 }
-.pglinks:hover { opacity: 1.0;
+img:hover { opacity: 1.0;
 }
 
+/*
 a:link, a:visited { color: #277553;
     text-decoration: none;}
 a:hover { color: #40bf88;
     text-decoration: none;}
 a:active { color: #64e64d;
     text-decoration: none;}
+*/
