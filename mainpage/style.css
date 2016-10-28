@@ -44,6 +44,11 @@ p {
     padding: 10px;
 }
 
+img { opacity: 0.7;
+}
+img:hover { opacity: 1.0;
+}
+
 a:link, a:visited { color: #277553;
     text-decoration: none;}
 a:hover { color: #40bf88;
