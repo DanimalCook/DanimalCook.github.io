@@ -37,8 +37,9 @@ h2 {
     text-align: center;
     color: #277553;
     margin: 50%;
-    width: 80%;
+    width: 50%;
     padding: 10px;
+    display: block;
 }
 
 p {
