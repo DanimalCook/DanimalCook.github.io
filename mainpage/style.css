@@ -28,15 +28,13 @@ h2 {
     font-family: "helvetica", "Geneva", sans-serif;
     text-align: center;
     color: #277553;
-    margin: 50px 20%;
-    height: 100px;
-    width: 80%;
+    margin: 20px 50px;
+    /*height: 100px;
+    width: 80%;*/
     padding: 10px;
-    display: block;
 }
 
 p {
-    box-sizing: border-box;
    font-family: "helvetica", "Geneva", sans-serif;
    text-align: center;
    color: #74AE95;
