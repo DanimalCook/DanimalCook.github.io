@@ -1,0 +1,5 @@
+SITE IDEAS
+- b&w pixel-based
+- banner assets used on large-scale
+- thumbnail assets used in mobile-scale
+- MH inspired graphics
