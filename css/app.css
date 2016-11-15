@@ -1,1 +1,30 @@
+body {
+    background-image: url("images/starry sky.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
 
+h1 {
+    text-align: center;
+    color: #ffffff;
+    font-family: "helvetica", "Geneva", monospace;
+    font-weight: bold;
+    padding: 20px 40px;
+    margin: 0px -40px;
+}
+
+h2 {
+    font-family: "helvetica", "Geneva", sans-serif;
+    text-align: center;
+    margin: 20px 50px;
+    padding: 10px;
+}
+
+p {
+   font-family: "helvetica", "Geneva", sans-serif;
+   text-align: center;
+    margin: auto;
+    padding: 10px;
+}
