@@ -33,7 +33,7 @@
         opacity: 0.3;
 }
 
-body {
+.homepage {
     background-image: url("../images/starry_sky.svg");
     background-repeat: no-repeat;
     background-attachment: fixed;
