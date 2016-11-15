@@ -4,6 +4,7 @@
 .row {
     clear: both;
     display: block;
+    color: #ffffff;
     font-weight: bold;
     text-shadow:
     -1px -1px 0 #000,  
@@ -37,7 +38,7 @@
     background-image: url("../images/starry_sky.svg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: left top;
+    background-position: center;
     background-size: cover;
 }
 h1 {
