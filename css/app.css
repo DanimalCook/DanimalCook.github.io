@@ -6,7 +6,7 @@
     display: block;
     color: #ffffff;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 20px;
     font-size: 3.5vw;
     text-shadow:
     -1px -1px 0 #000,  
@@ -34,6 +34,22 @@
         text-align:center;
         background-color: #ffffff;
         opacity: 0.3;
+}
+a:link {color: #ffffff;
+}
+a:hover {color: #ffffff;
+    text-shadow:
+    -2px -2px 0 #fff,  
+     2px -2px 0 #fff,
+     -2px 2px 0 #fff,
+      2px 2px 0 #fff;
+}
+a:active {color: #000000;
+    text-shadow:
+    -1px -1px 0 #fff,  
+     1px -1px 0 #fff,
+     -1px 1px 0 #fff,
+      1px 1px 0 #fff;
 }
 
 .homepage {
