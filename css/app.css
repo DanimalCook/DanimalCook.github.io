@@ -1,3 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+.row {
+    clear: both;
+    display: block;
+}
+.col-1 {width: 40%;
+        margin:10px 30%;
+        padding:10px;
+        text-align:center;
+}
+.col-2 {width: 40%;
+        margin:10px 30%;
+        padding:10px;
+        text-align:center;
+}
+.col-3 {width: 40%;
+        margin:10px 30%;
+        padding:10px;
+        text-align:center;
+}
+
 body {
     background-image: url("../images/starry_sky.svg");
     background-repeat: no-repeat;
@@ -5,7 +28,6 @@ body {
     background-position: center;
     background-size: cover;
 }
-
 h1 {
     text-align: center;
     color: #ffffff;
@@ -14,14 +36,12 @@ h1 {
     padding: 20px 40px;
     margin: 0px -40px;
 }
-
 h2 {
     font-family: "helvetica", "Geneva", sans-serif;
     text-align: center;
     margin: 20px 50px;
     padding: 10px;
 }
-
 p {
    font-family: "helvetica", "Geneva", sans-serif;
    text-align: center;
