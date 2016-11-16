@@ -4,17 +4,17 @@
 .row {
     clear: both;
     display: block;
-    color: #ffffff;
     font-weight: bold;
     font-size: 20px;
     font-size: 3.5vw;
+    
+}
+a:link {color: #ffffff;
     text-shadow:
     -1px -1px 0 #000,  
      1px -1px 0 #000,
      -1px 1px 0 #000,
       1px 1px 0 #000;
-}
-a:link {color: #ffffff;
 }
 a:hover {color: #ffffff;
     text-shadow:
