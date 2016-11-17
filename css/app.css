@@ -9,7 +9,7 @@
     font-size: 3.5vw;
     
 }
-a:link {color: #ffffff;
+a:link, a:visited {color: #ffffff;
     text-shadow:
     -1px -1px 0 #000,  
      1px -1px 0 #000,
@@ -30,13 +30,7 @@ a:active {color: #000000;
      -1px 1px 0 #fff,
       1px 1px 0 #fff;
 }
-a:visited {color: #ffffff;
-    text-shadow:
-    -1px -1px 0 #000,  
-     1px -1px 0 #000,
-     -1px 1px 0 #000,
-      1px 1px 0 #000;
-}
+
 .img {
     border: 1px solid rgba(255,255,255,0.2);
 }
