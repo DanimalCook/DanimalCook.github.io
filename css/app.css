@@ -31,19 +31,31 @@ a:active {color: #000000;
       1px 1px 0 #fff;
 }
 
-.col-1 {width: 40%;
-        margin:10px 30%;
-        padding:5px;
+.col-1 {width: 60%;
+        margin:0px 20%;
+        padding:10px;
         text-align:center;
         background-color: rgba(255,255,255,0.2);
 }
-.col-2 {width: 40%;
-        margin:10px 30%;
+.col-2 {width: 20%;
+        margin:10px 40%;
         padding:5px;
         text-align:center;
         background-color: rgba(255,255,255,0.2);
 }
 .col-3 {width: 40%;
+        margin:10px 30%;
+        padding:5px;
+        text-align:center;
+        background-color: rgba(255,255,255,0.2);
+}
+.col-4 {width: 40%;
+        margin:10px 30%;
+        padding:5px;
+        text-align:center;
+        background-color: rgba(255,255,255,0.2);
+}
+.col-5 {width: 40%;
         margin:10px 30%;
         padding:5px;
         text-align:center;
