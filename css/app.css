@@ -69,6 +69,27 @@ a:active {color: #000000;
     background-position: center;
     background-size: cover;
 }
+.3d_gallery {
+    background-image: url("../images/starspage1.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.md_gallery {
+    background-image: url("../images/starspage2.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.si_gallery {
+    background-image: url("../images/starspage3.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
 h1 {
     text-align: center;
     color: #ffffff;
@@ -85,7 +106,8 @@ h2 {
 }
 p {
    font-family: "helvetica", "Geneva", sans-serif;
+   color: #ffffff;
    text-align: center;
-    margin: auto;
-    padding: 10px;
+   margin: auto;
+   padding: 10px;
 }
