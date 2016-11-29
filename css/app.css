@@ -10,11 +10,6 @@
     
 }
 a:link, a:visited {color: #ffffff;
-    text-shadow:
-    -1px -1px 0 #000,  
-     1px -1px 0 #000,
-     -1px 1px 0 #000,
-      1px 1px 0 #000;
 }
 a:hover {color: #ffffff;
     text-shadow:
@@ -50,25 +45,25 @@ a:active {color: #000000;
         background-color: rgba(255,255,255,0.2);
 }
 .col-2 {width: 20%;
-        margin:10px 40%;
+        margin:0px 40%;
         padding:5px;
         text-align:center;
         background-color: rgba(255,255,255,0.2);
 }
 .col-3 {width: 40%;
-        margin:10px 30%;
+        margin:0px 30%;
         padding:5px;
         text-align:center;
         background-color: rgba(255,255,255,0.2);
 }
 .col-4 {width: 40%;
-        margin:10px 30%;
+        margin:0px 30%;
         padding:5px;
         text-align:center;
         background-color: rgba(255,255,255,0.2);
 }
 .col-5 {width: 40%;
-        margin:10px 30%;
+        margin:0px 30%;
         padding:5px;
         text-align:center;
         background-color: rgba(255,255,255,0.2);
@@ -113,7 +108,7 @@ h1 {
 h2 {
     font-family: "helvetica", "Geneva", sans-serif;
     text-align: center;
-    margin: 20px 50px;
+    margin: 0px 50px;
     padding: 10px;
 }
 p {
