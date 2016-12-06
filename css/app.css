@@ -13,8 +13,8 @@
 .callout {
     background: rgba(0,0,0,.0);
 }
-#my-info {
-    background: rgba(0,0,0,.3);
+.title-bar.hide-for-large {
+    background: rgba(0,0,0,.8);
     color: #fff
 }
 .row.column {
