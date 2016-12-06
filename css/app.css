@@ -17,6 +17,10 @@
     background: rgba(0,0,0,.8);
     color: #fff
 }
+#my-info {
+    background: rgba(0,0,0,.2);
+    color: #fff
+}
 .row.column {
     background: rgba(255,255,255,.0);
 }
