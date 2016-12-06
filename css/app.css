@@ -1,9 +1,13 @@
 .off-canvas-content {
-    background-image: url("../images/starry_sky.svg");
+    background-color: rgba(0,0,0,.2);
     box-shadow: 0;
+    color: #fff;
 }
 .callout.primary {
     background-color: rgba(0,0,0,.0);
 }
 .callout {
+}
+.body {
+    background-image: url("../images/Dither_Master.svg");
 }
