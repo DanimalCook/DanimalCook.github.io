@@ -1,13 +1,16 @@
 .off-canvas-content {
-    background: rgba(255,255,255,.2);
+    background: rgba(255,255,255,.0);
     box-shadow: 0;
     color: #fff;
 }
 .callout.primary {
-    background: rgba(255,255,255,.5);
+    background: rgba(255,255,255,.2);
 }
 .callout {
-    background: rgba(255,255,255,.5);
+    background: rgba(255,255,255,.2);
+}
+.row.column {
+    background: rgba(255,255,255,.2);
 }
 body {
     background-image: url("../images/Dither_Masterlg.svg");
