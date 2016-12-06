@@ -2,7 +2,7 @@
     background: rgba(0,0,0,.8);
 }
 .off-canvas-content {
-    background: rgba(0,0,0,.2);
+    background: rgba(0,0,0,.0);
     color: #fff;
 }
 .callout.primary {
@@ -10,7 +10,7 @@
     color: #fff;
 }
 .callout {
-    background: rgba(0,0,0,.2);
+    background: rgba(0,0,0,.0);
 }
 #my-info {
     background: rgba(0,0,0,.2);
