@@ -1,10 +1,10 @@
 .off-canvas-content {
-    background-color: rgba(0,0,0,.2);
+    background: rgba(0,0,0,.2);
     box-shadow: 0;
     color: #fff;
 }
 .callout.primary {
-    background-color: rgba(0,0,0,.0);
+    background: rgba(0,0,0,.0);
 }
 .callout {
 }
