@@ -9,8 +9,11 @@
 .callout {
     background: rgba(255,255,255,.2);
 }
-.row.column {
+#my-info {
     background: rgba(255,255,255,.2);
+}
+.row.column {
+    background: rgba(255,255,255,.5);
 }
 body {
     background-image: url("../images/Dither_Masterlg.svg");
