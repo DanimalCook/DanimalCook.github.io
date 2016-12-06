@@ -34,7 +34,8 @@ body {
     background-size: cover;
 }
 a:link, a:visited {color: rgba(255,255,255,.8);
-    background: rgba(255,255,255,.8);
+    background: rgba(0,0,0,.2);
+    padding: 3px;
 }
 a:hover {color: #ffffff;
 }
