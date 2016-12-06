@@ -13,7 +13,10 @@
     background: rgba(255,255,255,.2);
 }
 .row.column {
-    background: rgba(255,255,255,.5);
+    background: rgba(255,255,255,.0);
+}
+.row {
+    box-shadow: 0;
 }
 body {
     background-image: url("../images/Dither_Masterlg.svg");
