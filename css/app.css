@@ -3,14 +3,14 @@
     color: #fff;
 }
 .callout.primary {
-    background: rgba(1,1,1,.02);
+    background: rgba(255,255,255,.02);
     color: #fff;
 }
 .callout {
     background: rgba(255,255,255,.2);
 }
 #my-info {
-    background: rgba(255,255,255,.5);
+    background: rgba(255,255,255,.4);
 }
 .row.column {
     background: rgba(255,255,255,.0);
