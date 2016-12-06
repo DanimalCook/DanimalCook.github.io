@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+}
+.row {
+    clear: both;
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+    font-size: 3.5vw;
+    
+}
+a:link, a:visited {color: #ffffff;
+}
+a:hover {color: #ffffff;
+    text-shadow:
+    -1px -1px 0 #fff,  
+     1px -1px 0 #fff,
+     -1px 1px 0 #fff,
+      1px 1px 0 #fff;
+}
+a:active {color: #000000;
+    text-shadow:
+    -1px -1px 0 #fff,  
+     1px -1px 0 #fff,
+     -1px 1px 0 #fff,
+      1px 1px 0 #fff;
+}
+
+.img {
+    border: 1px solid rgba(255,255,255,0.2);
+}
+.img:hover {
+    border: 3px solid rgba(255,255,255,0.8);
+}
+.gallery {
+    padding: 0 5px;
+    float: left;
+    width: 25%;
+}
+
+.col-1 {width: 60%;
+        margin:0px 20%;
+        padding:10px;
+        text-align:center;
+        background-color: rgba(255,255,255,0.2);
+}
+.col-2 {width: 20%;
+        margin:0px 40%;
+        padding:5px;
+        text-align:center;
+        background-color: rgba(255,255,255,0.2);
+}
+.col-3 {width: 40%;
+        margin:0px 30%;
+        padding:5px;
+        text-align:center;
+        background-color: rgba(255,255,255,0.2);
+}
+.col-4 {width: 40%;
+        margin:0px 30%;
+        padding:5px;
+        text-align:center;
+        background-color: rgba(255,255,255,0.2);
+}
+.col-5 {width: 40%;
+        margin:0px 30%;
+        padding:5px;
+        text-align:center;
+        background-color: rgba(255,255,255,0.2);
+}
+
+.homepage {
+    background-image: url("../images/starry_sky.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.3d_gallery {
+    background-image: url("../images/starspage1.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.md_gallery {
+    background-image: url("../images/starspage2.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.si_gallery {
+    background-image: url("../images/starspage3.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: #ffffff;
+    font-family: "helvetica", "Geneva", monospace;
+    font-weight: bold;
+    padding: 20px 40px;
+    margin: 0px -40px;
+}
+h2 {
+    font-family: "helvetica", "Geneva", sans-serif;
+    text-align: center;
+    margin: 0px 50px;
+    padding: 10px;
+}
+p {
+   font-family: "helvetica", "Geneva", sans-serif;
+   color: #ffffff;
+   text-align: center;
+   margin: 0px 50px;
+   padding: 10px;
+}
