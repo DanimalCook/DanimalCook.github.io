@@ -1,5 +1,6 @@
 # Dan's Site Blog
 
+This directory contains the site I build for HW_9.1
 
 <!--
 ## Main Color Palette
