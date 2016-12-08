@@ -31,7 +31,7 @@ body {
     background-repeat: repeat-x;
     background-attachment: fixed;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
 }
 a:link, a:visited {color: rgba(255,255,255,.8);
     background: rgba(0,0,0,.2);
