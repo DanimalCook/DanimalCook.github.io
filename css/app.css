@@ -1,3 +1,4 @@
+
 .title-bar.hide-for-large {
     background: rgba(0,0,0,.8);
 }
@@ -24,14 +25,18 @@
 .row.column {
     background: rgba(255,255,255,.0);
 }
+.pagelinks {
+    float: left;
+}
 .row {
+    text-align: center;
 }
 body {
     background-image: url("../images/Dither_Masterlg.svg");
     background-repeat: repeat-x;
     background-attachment: fixed;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
 }
 a:link, a:visited {color: rgba(255,255,255,.8);
     background: rgba(0,0,0,.2);
@@ -41,4 +46,3 @@ a:hover {color: #ffffff;
 }
 a:active {color: #000000;
 }
-
