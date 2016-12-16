@@ -46,6 +46,9 @@ p {
     text-align: center;
     color: #ffffff;
 }
+.sidebio {
+    text-align left;
+}
 a:link, a:visited {color: rgba(255,255,255,.8);
     background: rgba(0,0,0,.2);
     padding: 3px;
